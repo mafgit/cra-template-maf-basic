@@ -1,6 +1,6 @@
 {
   "name": "cra-template-maf-basic",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "keywords": [
     "react",
     "boilerplate",
@@ -8,7 +8,18 @@
     "template",
     "create-react-app"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mafgit/cra-template-maf-basic",
+    "directory": "packages/cra-template"
+  },
   "description": "A template for create react app that doesn't include the unnecessary files.",
+  "bugs": {
+    "url": "https://github.com/mafgit/cra-template-maf-basic/issues"
+  },
+  "engines": {
+    "node": ">=14"
+  },
   "main": "template.json",
   "files": [
     "template",
